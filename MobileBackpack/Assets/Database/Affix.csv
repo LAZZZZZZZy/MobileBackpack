@@ -1,0 +1,3 @@
+﻿ID,Name,Type,Attribute,MinValue,MaxValue
+1,生锈的,Surffix,PhysicalAttack,1,5
+2,噩梦的,Perffix,PhysicalAttack,1,3

@@ -1,0 +1,3 @@
+﻿ID,Name,Type,Rare,Surffix,Perffix,Attribute,MinValue,MaxValue,Description,Sprite
+1,小刀,Weapon,1,0,1,PhysicalAttack,1,3,切水果用,Equipment\xiaodao
+2,太刀,Weapon,1,0,1,physicalAttack,1,3,感觉是垃圾,Equipment\qiang
